@@ -13,3 +13,7 @@ WARNING IMPORTANT
 
 When dropping files into [input dir] you should use a Move operator instead of a Copy. Move's are atomic within the same file system
 on Windows.
+
+Building
+
+I used Microsoft Visual Studio Community 2017 to build.
